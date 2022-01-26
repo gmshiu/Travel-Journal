@@ -157,8 +157,16 @@ hr {
         justify-content: center;
         align-items: center;
         width: auto;
-        height: 60px;   
+        height: 65px;   
     }
+    .socialMedia {
+        display: flex;
+        gap: 90px;
+      }
+    .socialIcons:hover,
+    .socialIcons:focus {
+         background-color: #161619;
+      }
     
 }
 @media screen and (min-width: 1024px) {
