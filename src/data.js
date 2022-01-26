@@ -22,7 +22,7 @@ export default [
     {
         id: 3,
         title: "Boston",
-        location: "United States",
+        location: "USA",
         googleMapsUrl: "https://g.page/td-garden-boston?share",
         startDate: "22 Oct, 2021",
         endDate: "24 Oct, 2021",
