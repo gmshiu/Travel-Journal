@@ -1,6 +1,7 @@
 import React from "react"
 import Navbar from "./components/Navbar"
 import Places from "./components/Places"
+import Footer from "./components/Footer"
 import data from "./data"
 import "./style.css"
 
@@ -19,6 +20,7 @@ export default function App() {
         <section className="places-list">
             {places}
         </section>
+        <Footer />
         </div>
     )
 }
