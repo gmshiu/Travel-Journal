@@ -17,7 +17,17 @@ p {
     padding: 2px 5px;
     text-align: justify;
 }
-
+h2 {
+    padding: 0px 0px 0px;
+    margin: 0;
+}
+h5 {
+    padding: 8px 0px 0px;
+    margin: 0;
+}
+hr {
+    border: 1px solid #e5e5e5;
+}
 
 .navBar {
     background-color: #F55A5A;
@@ -44,7 +54,8 @@ p {
     margin: 80px;
     display: flex;
     align-items: center;
-    
+    flex-direction: column;
+    margin-top: 35px;
 }
 
 .nav--logo {
@@ -82,21 +93,23 @@ p {
 }
 
 .places--image {
-    width: 230px;
-    height: 230px;
+    width: 220px;
+    height: 220px;
     object-fit: cover;
     border-radius: 9px;
-    margin-right: 20px
+    margin-right: 20px;
 }
 
 .places--location {
     display: flex;
     align-items: center;
+    margin-left: 0;
 }
 
 .places--cursor {
     width: 10px;
     margin-right: 5px;
+    margin-left: -15px;
 }
 
 .places--description {
@@ -148,7 +161,7 @@ p {
         border: 0;
     }
     .places--container {
-        flex-direction: column;
+        flex-direction: row;
         width: 1024px;
         margin-right: auto;
         margin-left: auto;
