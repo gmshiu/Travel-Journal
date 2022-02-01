@@ -13,7 +13,7 @@ export default [
         id: 2,
         title: "Kipepeo Beach",
         location: "Tanzania",
-        googleMapsUrl: "https://goo.gl/maps/6LvZmeyFME9En8SXA",
+        googleMapsUrl: "https://goo.gl/maps/dfGWZuTy18WogQ7p7",
         startDate: "15 Jun, 2021",
         endDate: "15 Jun, 2021",
         description: "While traveling in Tanzania I got to visit Kikuletwa Hot water spring aka (Chemka) in Kilimanjaro. Chemka is a hidden gem along Moshi and Arusha, a beautiful oasis sorrounded by little jungle where you can go for a swim while waiting for a trip to Mt Kilimanjaro or the Serengeti.",
