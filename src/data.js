@@ -31,11 +31,11 @@ export default [
     },
     {
         id: 4,
-        title: "Boston",
+        title: "Chicago",
         location: "USA",
         googleMapsUrl: "https://goo.gl/maps/4dJqZnG3fvNW2sSc8",
-        startDate: "22 Oct, 2021",
-        endDate: "24 Oct, 2021",
+        startDate: "24 Jun, 2021",
+        endDate: "25 Jun, 2021",
         description: "Visit Boston, to attend the Celtics game againts Raptors. I also got to tour the beautiful city of Boston, and Quincy.",
         img: "td-garden.JPG"
     },
