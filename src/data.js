@@ -37,7 +37,7 @@ export default [
         startDate: "24 Jun, 2021",
         endDate: "25 Jun, 2021",
         description: "Visit Boston, to attend the Celtics game againts Raptors. I also got to tour the beautiful city of Boston, and Quincy.",
-        img: "td-garden.JPG"
+        img: "Chicago.jpg"
     },
     {
         id: 5,
