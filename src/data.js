@@ -36,7 +36,7 @@ export default [
         googleMapsUrl: "https://goo.gl/maps/4dJqZnG3fvNW2sSc8",
         startDate: "24 Jun, 2021",
         endDate: "25 Jun, 2021",
-        description: "This is an interesting one! I was flying back to the Us from my summer holiday in Tanzania. We were on a flight from Doha to Chicago, just to find out we will make an emergency stop in Minneapolis 1 hour before landing in Chicago due to bad weather. We spent a couple of house in Minneapolis before heading back to Chicago where I missed my flight to Columbus and stayed the night in Chicago.",
+        description: "This is an interesting one! I was flying back to the Us from my summer holiday in Kilimanjaro, Tanzania. We were on a flight from Doha to Chicago, just to find out we will make an emergency stop in Minneapolis 1 hour before landing in Chicago due to bad weather. We spent a couple of house in Minneapolis before heading back to Chicago where I missed my flight to Columbus and stayed the night in Chicago.",
         img: "Chicago.jpg"
     },
     {
